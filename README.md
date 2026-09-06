@@ -26,3 +26,15 @@ I am using this repository to track my progress in Data Structures and Algorithm
 
 Solve problems consistently and improve my understanding of DSA, algorithms, time complexity, and space complexity.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/shrushtimamidwar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/shrushtimamidwar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
